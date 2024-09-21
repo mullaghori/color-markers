@@ -1,0 +1,107 @@
+h1 {
+    text-align: center;
+  }
+  
+  .container {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+  }
+  
+  .marker {
+    width: 200px;
+    height: 25px;
+    margin: 10px auto;
+  }
+  
+  .cap {
+    width: 60px;
+    height: 25px;
+  }
+  
+  .sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-left: 10px double rgba(0, 0, 0, 0.75);
+  }
+  
+  .cap, .sleeve {
+    display: inline-block;
+  }
+  
+  .red {
+    background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+    box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+  }
+  
+  .green {
+    background: linear-gradient(#55680D, #71F53E, #116C31);
+    box-shadow: 0 0 20px 0 #3B7E20CC;
+  }
+
+  .blue {
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+    box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
+  }
+
+  .yellow {
+    background: linear-gradient(#7E7C0D, #F5E23E, #6C6A11);
+    box-shadow: 0 0 20px 0 #7E7B20CC;
+}
+
+.black {
+    background: linear-gradient(#1C1C1C, #4B4B4B, #0E0E0E);
+    box-shadow: 0 0 20px 0 #3B3B3BCC;
+}
+
+.orange {
+    background: linear-gradient(#7E4D0D, #F58D3E, #6C3B11);
+    box-shadow: 0 0 20px 0 #7E5C20CC;
+}
+
+.purple {
+    background: linear-gradient(#4D0D7E, #8D3EF5, #3B116C);
+    box-shadow: 0 0 20px 0 #5C20A7CC;
+}
+
+.pink {
+    background: linear-gradient(#7E0D4D, #F53E7D, #6C113B);
+    box-shadow: 0 0 20px 0 #7E205C;
+}
+
+.brown {
+    background: linear-gradient(#7E4D3B, #F5C23E, #6C4B3B);
+    box-shadow: 0 0 20px 0 #7E5B3B;
+}
+
+.light-blue {
+    background: linear-gradient(#0D7E7E, #3EF5F5, #113B6C);
+    box-shadow: 0 0 20px 0 #20B7B7CC;
+}
+
+.light-green {
+    background: linear-gradient(#4D7E0D, #A8F53E, #4B6C11);
+    box-shadow: 0 0 20px 0 #5C7E20CC;
+}
+
+.gray {
+    background: linear-gradient(#7E7E7E, #BFBFBF, #4B4B4B);
+    box-shadow: 0 0 20px 0 #7E7E7E;
+}
+
+.dark-blue {
+    background: linear-gradient(#0D1D4D, #3E6B8D, #11163B);
+    box-shadow: 0 0 20px 0 #203B7ECC;
+}
+
+.magenta {
+    background: linear-gradient(#7E0D7E, #F53EBC, #6C113B);
+    box-shadow: 0 0 20px 0 #7E205C;
+}
+
+.turquoise {
+    background: linear-gradient(#0D7E7E, #3EF5E0, #113B6C);
+    box-shadow: 0 0 20px 0 #20B7B7CC;
+}
+
+  
